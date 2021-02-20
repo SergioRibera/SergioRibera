@@ -7,7 +7,9 @@
 
 ## Awesome Projects 📚
 
-<style>td{text-align:center;}</style>
+<style type="text/css">
+td{text-align:center;}
+</style>
 <table align="center">
   <thead>
       <tr>
