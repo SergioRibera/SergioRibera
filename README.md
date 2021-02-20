@@ -7,9 +7,6 @@
 
 ## Awesome Projects 📚
 
-<style type="text/css">
-td{text-align:center;}
-</style>
 <table align="center">
   <thead>
       <tr>
