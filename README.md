@@ -59,9 +59,6 @@
   </tr>
 </table>
 
-
-## Latest videos 
-<p align="center"><p><a href="https://www.youtube.com/watch?v=ZN1cAH6HQVA" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/ZN1cAH6HQVA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrBJp6Cl5MXfFVfOwpBaNx_NBLvw"/>&nbsp; &nbsp;VsCode con Unity y C# en general | Windows, Linux y Mac</a></p><p><a href="https://www.youtube.com/watch?v=bJUUTWM98wk" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/bJUUTWM98wk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHj4ez058D2fYg6olgvMgwRhT-kA"/>&nbsp; &nbsp;Crea Interfaces hermosas para tus aplicaciones de Escritorio - Iniciando con Electron.js</a></p><p><a href="https://www.youtube.com/watch?v=YbiOfRk7fx8" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YbiOfRk7fx8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRpsWce2PRUK-f4CmWnrIoVLTQug"/>&nbsp; &nbsp;Configurando Qtile | Instalación de ArchLinux</a></p></p>
 <br>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry" alt="SergioRibera's Github Stats"/>
