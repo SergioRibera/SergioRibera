@@ -6,18 +6,60 @@
 
 
 ## Awesome Projects 📚
-|                                                          (Neo)Vim Plugins                                                                        ||
-|:-------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-|   [vim-screenshot](https://github.com/SergioRibera/vim-screenshot)  |            [vim-files](https://github.com/SergioRibera/vim-files)           |
-|                                                                  Dotfiles                                                                        ||
-|    [my dotfiles](https://github.com/SergioRibera/my-linux-config)   | [archlinux Sarosi Config](https://github.com/SergioRibera/ConfigsArchLinux) |
-|                                                                   Games                                                                          ||
-|        [PvZ Clone](https://github.com/SergioRibera/PvZClone)        |        [c++ Console Game](https://github.com/SergioRibera/CSpaceWar)        |
-|                                                                 Funy Webs                                                                        ||
-|    [Happy New Year](https://github.com/SergioRibera/NewYear-Web)    |      [Christmas Tree](https://github.com/SergioRibera/ArbolitoNavidad)      |
-|       [404 Dot Style](https://github.com/SergioRibera/404Dot)       |         [404 Linux Style](https://github.com/SergioRibera/404Linux)         |
-|                                                           Simple Backend System                                                                  ||
-| [Simple MVC System](https://github.com/SergioRibera/simple-mvc-php) |                                                                             |
+
+<style>td{text-align:center;}</style>
+<table align="center">
+  <thead>
+      <tr>
+        <th colspan="2">(Neo)Vim Plugins</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/vim-screenshot">vim-screenshot</a></td>
+    <td><a href="https://github.com/SergioRibera/vim-files">vim-files</a></td>
+  </tr>
+  <thead>
+      <tr>
+        <th colspan="2">Dotfiles</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/my-linux-config">my dotfiles</a></td>
+    <td><a href="https://github.com/SergioRibera/ConfigsArchLinux">archlinux Sarosi Config</a></td>
+  </tr>
+  <thead>
+      <tr>
+        <th colspan="2">Games</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/PvZClone">PvZ Clone</a></td>
+    <td><a href="https://github.com/SergioRibera/CSpaceWar">c++ Console Game</a></td>
+  </tr>
+  <thead>
+      <tr>
+        <th colspan="2">Funy Web Sites</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/NewYear-Web">Happy New Year</a></td>
+    <td><a href="https://github.com/SergioRibera/ArbolitoNavidad">Christmas Tree</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/404Dot">404 Dot Style</a></td>
+    <td><a href="https://github.com/SergioRibera/404Linux">404 Linux Style</a></td>
+  </tr>
+  <thead>
+      <tr>
+        <th colspan="2">Simple Backend System</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/simple-mvc-php">Simple MVC System</a></td>
+    <td></td>
+  </tr>
+</table>
+
 
 ## Latest videos 
 <p align="center"><p><a href="https://www.youtube.com/watch?v=ZN1cAH6HQVA" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/ZN1cAH6HQVA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrBJp6Cl5MXfFVfOwpBaNx_NBLvw"/>&nbsp; &nbsp;VsCode con Unity y C# en general | Windows, Linux y Mac</a></p><p><a href="https://www.youtube.com/watch?v=bJUUTWM98wk" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/bJUUTWM98wk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHj4ez058D2fYg6olgvMgwRhT-kA"/>&nbsp; &nbsp;Crea Interfaces hermosas para tus aplicaciones de Escritorio - Iniciando con Electron.js</a></p><p><a href="https://www.youtube.com/watch?v=YbiOfRk7fx8" target="blank"><img align="center" width="100px" src="https://i.ytimg.com/vi/YbiOfRk7fx8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRpsWce2PRUK-f4CmWnrIoVLTQug"/>&nbsp; &nbsp;Configurando Qtile | Instalación de ArchLinux</a></p></p>
