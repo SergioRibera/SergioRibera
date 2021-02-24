@@ -1,5 +1,7 @@
 # Hello, I'm Sergio Ribera! 👋
-
+<p>
+And I am a solution developer 😎
+</p>
 <a href="https://sergioribera.com">
     <img align="right" height="auto" width="200" src="https://github.com/SergioRibera/SergioRibera/blob/main/img/logo.png"/>
 </a>
