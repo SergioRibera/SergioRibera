@@ -30,6 +30,7 @@ And I am a solution developer
   </tr>
   <tr>
     <td><a href="https://github.com/SergioRibera/my-linux-config">My ST Fork Boosted</a></td>
+    <td></td>
   </tr>
   <thead>
       <tr>
