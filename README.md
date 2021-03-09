@@ -29,6 +29,9 @@ td{text-align:center;}
     <td><a href="https://github.com/SergioRibera/my-linux-config">my dotfiles</a></td>
     <td><a href="https://github.com/SergioRibera/ConfigsArchLinux">archlinux Sarosi Config</a></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/my-linux-config">My ST Fork Boosted</a></td>
+  </tr>
   <thead>
       <tr>
         <th colspan="2">Games</th>
