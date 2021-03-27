@@ -74,7 +74,7 @@ And I am a solution developer
     <h3 align="center">Contact me at:</h3>
 </div>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hector-pulido-17547369/" target="blank">
+    <a href="https://www.linkedin.com/in/sergioribera/" target="blank">
         <img align="center" width="30px" alt="SergioRibera's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
     <a href="https://twitter.com/SergioRibera_ID" target="blank">
         <img align="center" width="30px" alt="SergioRibera's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
