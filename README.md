@@ -63,6 +63,15 @@ And I am a solution developer
     <td><a href="https://github.com/SergioRibera/simple-mvc-php">Simple MVC System</a></td>
     <td></td>
   </tr>
+  <thead>
+      <tr>
+        <th colspan="2">S4rchISO</th>
+      </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/SergioRibera/s4rchiso-plymouth-theme">Plymouth Theme</a></td>
+    <td><a href="https://github.com/SergioRibera/lightdm-minimal-s4rchiso">Lightdm Theme</a></td>
+  </tr>
 </table>
 
 <br>
