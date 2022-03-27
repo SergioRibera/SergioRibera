@@ -70,7 +70,7 @@ And I am a solution developer
   </thead>
   <tr>
     <td><a href="https://github.com/SergioRibera/s4rchiso-plymouth-theme">Plymouth Theme</a></td>
-    <td><a href="https://github.com/SergioRibera/lightdm-minimal-s4rchiso">Lightdm Theme</a></td>
+    <td><a href="https://github.com/SergioRibera/lightdm-s4rchiso">Lightdm Theme</a></td>
   </tr>
 </table>
 
