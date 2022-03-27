@@ -2,6 +2,9 @@
 <p>
 And I am a solution developer
 </p>
+<p>
+My favorite languages to work and play, are: Rust, Python, Javascript, Bash Scripting, Lua,  Go, C#, C, C++
+</p>
 <a href="https://sergioribera.com">
     <img align="right" height="200" width="200"  src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/56278796?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d"/>
 </a>
