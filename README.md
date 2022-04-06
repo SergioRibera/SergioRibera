@@ -22,6 +22,10 @@ My favorite languages to work and play, are: Rust, Python, Javascript, Bash Scri
     <td><a href="https://github.com/SergioRibera/vim-screenshot">vim-screenshot</a></td>
     <td><a href="https://github.com/SergioRibera/vim-files">vim-files</a></td>
   </tr>
+    <tr>
+        <td><a href="https://github.com/SergioRibera/nvim-conf">nvim-conf</a></td>
+        <td></td>
+    </tr>
   <thead>
       <tr>
         <th colspan="2">Dotfiles</th>
