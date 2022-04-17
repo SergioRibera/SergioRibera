@@ -32,11 +32,11 @@ My favorite languages to work and play, are: Rust, Python, Javascript, Bash Scri
       </tr>
   </thead>
   <tr>
-    <td><a href="https://github.com/SergioRibera/my-linux-config">My Dotfiles</a></td>
+    <td><a href="https://github.com/SergioRibera/Dotfiles">My Dotfiles</a></td>
     <td><a href="https://github.com/SergioRibera/NvimDotfiles">Nvim Dotfiles</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SergioRibera/my-linux-config">My ST Fork Boosted</a></td>
+    <td><a href="https://github.com/SergioRibera/st-sr">My ST Fork Boosted</a></td>
     <td><a href="https://github.com/SergioRibera/ConfigsArchLinux">Archlinux Sarosi Config</a></td>
   </tr>
   <thead>
