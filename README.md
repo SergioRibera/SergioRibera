@@ -94,10 +94,6 @@ My favorite languages to work and play, are: Rust, Python, Javascript, Bash Scri
         <img align="center" width="30px" alt="SergioRibera's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
     <a href="https://twitter.com/SergioRibera_ID" target="blank">
         <img align="center" width="30px" alt="SergioRibera's Twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a> &nbsp; &nbsp;
-    <a href="https://facebook.com/SergioRiberaID" target="blank">
-        <img align="center" width="30px" alt="SergioRibera's Facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a> &nbsp; &nbsp;
-    <a href="https://www.instagram.com/sergio_riberacosta/" target="blank">
-        <img align="center" width="30px" alt="SergioRibera's Instagram" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a> &nbsp; &nbsp;
     <a href="https://www.twitch.tv/sergioriberaid" target="blank">
         <img align="center" width="30px" alt="SergioRibera's Twitch" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"/></a> &nbsp; &nbsp;
     <a href="https://www.youtube.com/channel/UCm_CD6QqAEgtaHde9UycbuA" target="blank">
