@@ -1,5 +1,5 @@
 <a href="https://sergioribera.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_EN.png"/>
+    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_EN_sort.png"/>
 </a>
 
 
