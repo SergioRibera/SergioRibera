@@ -23,6 +23,10 @@
     </a>
 </p>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry&hide_border=true" alt="SergioRibera's Github Stats" /> &nbsp; &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true" alt="SergioRibera's Github Stats" />
+</div>
 
 <details>
     <summary><h2>Awesome Projects 📚</h2></summary>
@@ -172,10 +176,6 @@
 </details>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry&hide_border=true" alt="SergioRibera's Github Stats" /> &nbsp; &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true" alt="SergioRibera's Github Stats" />
-</div>
-
-<div align="center">
 <h3>Show some ❤️ by starring some of the repositories!</h3>
+<span><sup>This readme is autogenerate by <a href="https://github.com/SergioRibera/SergioRibera">github actions</a><sup></span>
 </div>
