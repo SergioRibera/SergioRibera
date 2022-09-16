@@ -1,0 +1,45 @@
+name: CI
+
+# Controls when the action will run. 
+on:
+  push:
+    branches:
+      - main
+    paths: 
+      - "***.json"
+  
+  # Allows you to run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.10.x' # Version range or exact ve
+      - name: Generate files
+        run: |
+          cd src
+          python3 main.py
+          cd ..
+
+      - name: Commit changes
+        run: |
+          git add -A
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m 'Update Readme' 
+          git config --global --add safe.directory /github/workspace
+
+          
+      # Upload static files to master
+      - name: Force push to main
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          directory: ./
