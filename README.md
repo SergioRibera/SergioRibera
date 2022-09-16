@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_en.md">en</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_es.md">es</a>
+<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
 </div>
 <div align="right">
     <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITORS" />

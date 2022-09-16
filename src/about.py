@@ -11,7 +11,7 @@ EXTRA_TEMPLATE_VARIABLE = "@ABOUT_EXTRA"
 def replace_about(data, lang: str, raw_temp: str) -> str:
     d = data[ABOUT_NAME_FILE]
     if len(lang) == 0:
-        lang = "en"
+        lang = "EN"
     if lang in d:
         d = d[lang]
     s = raw_temp.replace(SO_TEMPLATE_VARIABLE, d['so'])

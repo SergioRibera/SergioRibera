@@ -8,7 +8,7 @@ from titles import replace_titles
 OUT_DIR = abspath("../")
 TEMPLATE_README = "../template.md"
 BASIC_NAME = "README"
-LANGS = [ "", "en", "es" ]
+LANGS = [ "", "EN", "ES" ]
 
 data = get_all_by_lang()
 

@@ -17,7 +17,7 @@ TABLE_LANG_TEMPLATE_VARIABLE = "@TITLE_PROJECT_LANG"
 def replace_titles(data, lang: str, raw_temp: str) -> str:
     d = data[TITLE_NAME_FILE]
     if len(lang) == 0:
-        lang = "en"
+        lang = "EN"
     if lang in d:
         d = d[lang]
     s = raw_temp.replace(TABLE_NAME_TEMPLATE_VARIABLE, d['proj_title_name'])
