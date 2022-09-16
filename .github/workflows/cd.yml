@@ -1,4 +1,4 @@
-name: CI
+name: CD
 
 # Controls when the action will run. 
 on:
@@ -7,12 +7,13 @@ on:
       - main
     paths: 
       - "data/**.json"
+      - "template.md"
   
   # Allows you to run manually from the Actions tab
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:

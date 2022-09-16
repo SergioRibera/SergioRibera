@@ -25,10 +25,10 @@
 
 
 <details>
-    <summary><h2>Awesome Projects 📚</summary></h2>
+    <summary><h2>Awesome Projects 📚</h2></summary>
     <table>
         <thead align="center">
-            <tr border: none;>
+            <tr style="border: none;">
                 <td><b>💻 Project Name</b></td>
                 <td><b>🌟 Stars</b></td>
                 <td><b>🍴 Forks</b></td>
@@ -49,5 +49,5 @@
 </div>
 
 <div align="center">
-### Show some ❤️ by starring some of the repositories!
+<h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>

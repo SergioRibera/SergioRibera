@@ -12,8 +12,8 @@
         "repo": "vim-files"
     },
     {
-        "name": "Vim Config Plugin",
-        "repo": "vim-conf"
+        "name": "Neovim Config Plugin",
+        "repo": "nvim-conf"
     },
     {
         "name": "Plymouth Theme",

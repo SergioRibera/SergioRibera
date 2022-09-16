@@ -17,15 +17,15 @@ def proj_from_dict(o: dict) -> Project:
 
 
 def generate_table_data(p: Project) -> str:
-    return f"""<tr>
-<td><a href="{REPO_SERVER}/{AUTHOR}/{p.repo}"><b>{p.name}</b></a></td>
+    return f"""
+<tr>
+<td><a href="{REPO_SERVER}/{AUTHOR}/{p.repo}" target="_blank" ><b>{p.name}</b></a></td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/{AUTHOR}/{p.repo}?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/{AUTHOR}/{p.repo}?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Issues" src="https://img.shields.io/github/issues/{AUTHOR}/{p.repo}?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/{AUTHOR}/{p.repo}?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/{AUTHOR}/{p.repo}?style=flat-square"/></td>
-</tr>
-"""
+</tr>"""
 
 def generate_table(projects: list) -> str:
     generateds = [generate_table_data(proj_from_dict(p)) for p in projects]
