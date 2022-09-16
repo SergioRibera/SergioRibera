@@ -30,6 +30,17 @@
     <img src="https://github-readme-stats.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry&hide_border=true&custom_title=Sergio%20Ribera%20Stats&hide_rank=true" alt="SergioRibera's Github Stats" /> &nbsp; &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true&hide=Assembly,HTML,ASP,Java,ShaderLab,SCSS,CSS,PHP" alt="SergioRibera's Github Stats" />
 </div>
+</br>
+
+**⚙️ Things I use to get stuff done**
+- **SO:** ArchLinux
+- **WM/DE:** bspwm & gnome with picom & rofi for more pleasure
+- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
+- **Shell:** Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
+- **Code Editor:** [Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)
+> **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
+
+Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
 
 <details>
     <summary><h2>Awesome Projects 📚</h2></summary>
