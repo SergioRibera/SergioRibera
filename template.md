@@ -2,8 +2,8 @@
 @LANGUAGES
 </div>
 <div align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7" />
-    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=@TITLE_VISITORS" />
+    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=@TITLE_LIVE&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
 <a href="https://sergioribera.com" rel="nofollow">
@@ -32,27 +32,27 @@
 </div>
 </br>
 
-**⚙️ Things I use to get stuff done**
-- **SO:** ArchLinux
-- **WM/DE:** bspwm & gnome with picom & rofi for more pleasure
-- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
-- **Shell:** Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
-- **Code Editor:** [Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)
-> **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
+**@TITLE_ABOUT**
+- **SO:** @ABOUT_SO
+- **WM/DE:** @ABOUT_WM
+- **Terminal:** @ABOUT_TERM
+- **Shell:** @ABOUT_SHELL
+- **Code Editor:** @ABOUT_CODE
+@ABOUT_NOTE
 
-Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
+@ABOUT_EXTRA
 
 <details>
-    <summary><h2>Awesome Projects 📚</h2></summary>
+    <summary><h2>@TITLE_PROJECT</h2></summary>
     <table>
         <thead align="center">
             <tr style="border: none;">
-                <td><b>💻 Project Name</b></td>
-                <td><b>🌟 Stars</b></td>
-                <td><b>🍴 Forks</b></td>
-                <td><b>🐛 Issues</b></td>
-                <td><b>🔔 Pull Requests</b></td>
-                <td><b>👨‍💻 Top Language</b></td>
+                <td><b>@TITLE_PROJECT_NAME</b></td>
+                <td><b>@TITLE_PROJECT_STARS</b></td>
+                <td><b>@TITLE_PROJECT_FORKS</b></td>
+                <td><b>@TITLE_PROJECT_ISSUES</b></td>
+                <td><b>@TITLE_PROJECT_PR</b></td>
+                <td><b>@TITLE_PROJECT_LANG</b></td>
             </tr>
         </thead>
         <tbody>
@@ -62,6 +62,6 @@ Checkout my system configuration on [here](https://github.com/SergioRibera/dotfi
 </details>
 
 <div align="center">
-<h3>Show some ❤️ by starring some of the repositories!</h3>
-<span><sup>This readme is autogenerate by <a href="https://github.com/SergioRibera/SergioRibera">github actions</a><sup></span>
+<h3>@TITLE_REGARDS</h3>
+<span><sup>@TITLE_CC<sup></span>
 </div>

@@ -30,9 +30,11 @@ def generate_table(projects: list) -> str:
     return "".join(generateds)
 
 def replace_template(data, lang: str, raw_temp: str):
-    data = data[PROJECT_NAME_FILE]
-    if data is dict:
-        data = data[lang]
-    projects = generate_table(data)
+    d = data[PROJECT_NAME_FILE]
+    if len(lang) == 0:
+        lang = "en"
+    if lang in d:
+        d = d[lang]
+    projects = generate_table(d)
     return raw_temp.replace(TEMPLATE_VARIABLE, projects)
 

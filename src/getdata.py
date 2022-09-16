@@ -13,22 +13,23 @@ def replace_lang(raw: str, langs: list) -> str:
     langs = [ f"<a href=\"{REPO_SERVER}/{AUTHOR}/{AUTHOR}/blob/main/README_{l}.md\">{l}</a>" for l in langs if len(l) > 0]
     return raw.replace(LANG_TEMPLATE_VARIABLE, "&nbsp;|&nbsp;".join(langs))
 
-def get_projects_data(lang: str = "") -> list:
+def get_projects_data(name: str = PROJECT_NAME_FILE, lang: str = "") -> list:
     if len(lang) > 0:
         lang = f".{lang}"
-    json_file = open(join(DATA_DIR, f"{PROJECT_NAME_FILE}{lang}.json"))
+    json_file = open(join(DATA_DIR, f"{name}{lang}.json"))
     return json.load(json_file)
 
 def get_all_by_lang() -> dict:
     data = {}
     files = get_all_files()
     for (name, lang) in files:
-        if name == PROJECT_NAME_FILE:
-            data_json = get_projects_data(lang)
-            if len(lang) == 0:
-                data[name] = data_json
-            else:
-                data[name][lang] = data_json
+        data_json = get_projects_data(name, lang)
+        if len(lang) == 0:
+            data[name] = data_json
+        else:
+            if not name in data:
+                data[name] = {}
+            data[name][lang] = data_json
     return data
 
 # get all json data files in data directory

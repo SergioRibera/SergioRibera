@@ -1,8 +1,8 @@
 <div align="left">
-<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
+<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_en.md">en</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_es.md">es</a>
 </div>
 <div align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7" />
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITORS" />
     <img src="https://img.shields.io/twitch/status/sergioriberaid?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
@@ -191,5 +191,5 @@ Checkout my system configuration on [here](https://github.com/SergioRibera/dotfi
 
 <div align="center">
 <h3>Show some ❤️ by starring some of the repositories!</h3>
-<span><sup>This readme is autogenerate by <a href="https://github.com/SergioRibera/SergioRibera">github actions</a><sup></span>
+<span><sup>This readme is autogenerate with <a href='https://github.com/SergioRibera/SergioRibera'>github actions</a><sup></span>
 </div>

@@ -1,13 +1,13 @@
 <div align="left">
-<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
+<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_en.md">en</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_es.md">es</a>
 </div>
 <div align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7" />
-    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITANTES" />
+    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=EnVivo&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
 <a href="https://sergioribera.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_EN_sort.png"/>
+    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_es_sort.png"/>
 </a>
 </br>
 </br>
@@ -32,6 +32,7 @@
 </div>
 </br>
 
+<<<<<<< HEAD
 **⚙️ Things I use to get stuff done**
 - **SO:** ArchLinux
 - **WM/DE:** bspwm & gnome with picom & rofi for more pleasure
@@ -41,18 +42,29 @@
 > **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
 
 Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
+=======
+**⚙️ Cosas que uso para hacer cosas**
+- **SO:** ArchLinux
+- **WM/DE:** bspwm & gnome con picom & rofi para más placer
+- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), m [config](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
+- **Shell:** Fish, sip, fish-shell puro. Si quieres ver mi config, se encuentra [aqui](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
+- **Code Editor:** [Neovim](https://neovim.io/), el mejor en el mundo!, por si quieres ver, tengo mi config [aqui](https://github.com/SergioRibera/NvimDotFiles)
+> **Note:** para mayor placer, yo uso Neovim con [neovide](https://github.com/neovide/neovide)
+
+Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://github.com/SergioRibera/dotfiles)
+>>>>>>> 9de7c48 (Add more automate data and fix language base generation)
 
 <details>
-    <summary><h2>Awesome Projects 📚</h2></summary>
+    <summary><h2>Projectos Increibles 📚</h2></summary>
     <table>
         <thead align="center">
             <tr style="border: none;">
-                <td><b>💻 Project Name</b></td>
-                <td><b>🌟 Stars</b></td>
+                <td><b>💻 Nombre del Proyecto</b></td>
+                <td><b>🌟 Favoritos</b></td>
                 <td><b>🍴 Forks</b></td>
-                <td><b>🐛 Issues</b></td>
-                <td><b>🔔 Pull Requests</b></td>
-                <td><b>👨‍💻 Top Language</b></td>
+                <td><b>🐛 Reportes</b></td>
+                <td><b>🔔 Solicitudes de Integracion</b></td>
+                <td><b>👨‍💻 Lenguaje mas usado</b></td>
             </tr>
         </thead>
         <tbody>
@@ -190,6 +202,6 @@ Checkout my system configuration on [here](https://github.com/SergioRibera/dotfi
 </details>
 
 <div align="center">
-<h3>Show some ❤️ by starring some of the repositories!</h3>
-<span><sup>This readme is autogenerate by <a href="https://github.com/SergioRibera/SergioRibera">github actions</a><sup></span>
+<h3>Muestra un poco de ❤️ agregando a tus favoritos algunos proyectos!</h3>
+<span><sup>Este readme fue generado automaticamente por <a href='https://github.com/SergioRibera/SergioRibera'>github actions</a><sup></span>
 </div>

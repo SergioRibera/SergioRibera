@@ -1,0 +1,14 @@
+{
+    "visitors": "VISITANTES",
+    "live": "EnVivo",
+    "about_title": "⚙️ Cosas que uso para hacer cosas",
+    "proj_title": "Projectos Increibles 📚",
+    "proj_title_name": "💻 Nombre del Proyecto",
+    "proj_title_stars": "🌟 Favoritos",
+    "proj_title_forks": "🍴 Forks",
+    "proj_title_issues": "🐛 Reportes",
+    "proj_title_pr": "🔔 Solicitudes de Integracion",
+    "proj_title_lang": "👨‍💻 Lenguaje mas usado",
+    "regards": "Muestra un poco de ❤️ agregando a tus favoritos algunos proyectos!",
+    "cc": "Este readme fue generado automaticamente por <a href='https://github.com/SergioRibera/SergioRibera'>github actions</a>"
+}

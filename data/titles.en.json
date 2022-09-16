@@ -1,0 +1,14 @@
+{
+    "visitors": "VISITORS",
+    "live": "LiveStream",
+    "about_title": "⚙️ Things I use to get stuff done",
+    "proj_title": "Awesome Projects 📚",
+    "proj_title_name": "💻 Project Name",
+    "proj_title_stars": "🌟 Stars",
+    "proj_title_forks": "🍴 Forks",
+    "proj_title_issues": "🐛 Issues",
+    "proj_title_pr": "🔔 Pull Requests",
+    "proj_title_lang": "👨‍💻 Top Language",
+    "regards": "Show some ❤️ by starring some of the repositories!",
+    "cc": "This readme is autogenerate with <a href='https://github.com/SergioRibera/SergioRibera'>github actions</a>"
+}

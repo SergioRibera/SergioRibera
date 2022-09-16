@@ -1,0 +1,22 @@
+{
+    "configurations": {
+        "python: Launch": {
+            "adapter": "debugpy",
+            "filetypes": [
+                "python"
+            ],
+            "configuration": {
+                "name": "Python: Launch",
+                "type": "python",
+                "request": "launch",
+                "cwd": "$PWD",
+                "python": "python",
+                "stopOnEntry": true,
+                "console": "externalTerminal",
+                "debugOptions": [],
+                "program": "main.py",
+                "args": [ ]
+            }
+        }
+    }
+}
