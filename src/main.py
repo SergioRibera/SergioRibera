@@ -1,6 +1,6 @@
 from os.path import abspath
 
-from getdata import get_all_by_lang
+from getdata import get_all_by_lang, replace_lang
 from project import replace_template
 
 OUT_DIR = abspath("../")
@@ -14,6 +14,7 @@ with open(TEMPLATE_README) as template:
     raw_template = template.read()
     for lang in LANGS:
         raw_template = replace_template(data, lang, raw_template)
+        raw_template = replace_lang(raw_template, LANGS)
         # TODO: add more datas
 
         if len(lang) > 0:

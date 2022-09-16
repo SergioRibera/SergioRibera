@@ -4,6 +4,14 @@ import json
 
 DATA_DIR = abspath("../data")
 PROJECT_NAME_FILE = "projects"
+REPO_SERVER = "https://github.com"
+AUTHOR = "SergioRibera"
+
+LANG_TEMPLATE_VARIABLE = "@LANGUAGES"
+
+def replace_lang(raw: str, langs: list) -> str:
+    langs = [ f"<a href=\"{REPO_SERVER}/{AUTHOR}/{AUTHOR}/blob/main/README_{l}.md\">{l}</a>" for l in langs if len(l) > 0]
+    return raw.replace(LANG_TEMPLATE_VARIABLE, "&nbsp;|&nbsp;".join(langs))
 
 def get_projects_data(lang: str = "") -> list:
     if len(lang) > 0:

@@ -1,8 +1,6 @@
-from getdata import PROJECT_NAME_FILE
+from getdata import AUTHOR, PROJECT_NAME_FILE, REPO_SERVER
 
-REPO_SERVER = "https://github.com"
 TEMPLATE_VARIABLE = "@PROJECTS"
-AUTHOR = "SergioRibera"
 
 class Project:
     name: str
