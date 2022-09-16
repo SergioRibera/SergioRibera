@@ -15,6 +15,11 @@ with open(TEMPLATE_README) as template:
     for lang in LANGS:
         raw_template = replace_template(data, lang, raw_template)
         raw_template = replace_lang(raw_template, LANGS)
+        if len(lang) > 0:
+            raw_template = raw_template.replace("@LANG", lang)
+        else:
+            # Default language
+            raw_template = raw_template.replace("@LANG", "EN")
         # TODO: add more datas
 
         if len(lang) > 0:

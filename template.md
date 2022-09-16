@@ -7,7 +7,7 @@
 </div>
 
 <a href="https://sergioribera.com" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_EN_sort.png"/>
+    <img src="https://raw.githubusercontent.com/SergioRibera/SergioRibera/main/img/Readme_@LANG_sort.png"/>
 </a>
 </br>
 </br>
