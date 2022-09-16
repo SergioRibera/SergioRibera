@@ -32,17 +32,6 @@
 </div>
 </br>
 
-<<<<<<< HEAD
-**⚙️ Things I use to get stuff done**
-- **SO:** ArchLinux
-- **WM/DE:** bspwm & gnome with picom & rofi for more pleasure
-- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
-- **Shell:** Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
-- **Code Editor:** [Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)
-> **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
-
-Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
-=======
 **⚙️ Cosas que uso para hacer cosas**
 - **SO:** ArchLinux
 - **WM/DE:** bspwm & gnome con picom & rofi para más placer
@@ -52,7 +41,6 @@ Checkout my system configuration on [here](https://github.com/SergioRibera/dotfi
 > **Note:** para mayor placer, yo uso Neovim con [neovide](https://github.com/neovide/neovide)
 
 Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://github.com/SergioRibera/dotfiles)
->>>>>>> 9de7c48 (Add more automate data and fix language base generation)
 
 <details>
     <summary><h2>Projectos Increibles 📚</h2></summary>
