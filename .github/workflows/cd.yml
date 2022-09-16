@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths: 
-      - "***.json"
+      - "data/**.json"
   
   # Allows you to run manually from the Actions tab
   workflow_dispatch:
