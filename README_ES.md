@@ -2,7 +2,7 @@
 <a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
 </div>
 <div align="right">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITANTES" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITANTES" />
     <img src="https://img.shields.io/twitch/status/sergioriberaid?label=EnVivo&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats-6x8w4mlbc-sergioribera.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry&hide_border=true&custom_title=Sergio%20Ribera%20Stats&hide_rank=true" alt="SergioRibera's Github Stats" /> &nbsp; &nbsp;
-    <img src="https://github-readme-stats-6x8w4mlbc-sergioribera.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true&hide=Assembly,HTML,ASP,Java,ShaderLab,SCSS,CSS,PHP" alt="SergioRibera's Github Stats" />
+    <img src="https://github-readme-stats-6x8w4mlbc-sergioribera.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true&hide=Assembly,HTML,ASP,Java,ShaderLab,SCSS,CSS,PHP,PowerBuilder,Blade" alt="SergioRibera's Github Stats" />
 </div>
 </br>
 
