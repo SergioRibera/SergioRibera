@@ -3,7 +3,7 @@
 </div>
 <div align="right">
     <img src="https://visitor-badge.glitch.me/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=VISITORS" />
-    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
+    <img src="https://img.shields.io/twitch/status/sergioribera_rs?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
 <a href="https://sergioribera.com" rel="nofollow">
