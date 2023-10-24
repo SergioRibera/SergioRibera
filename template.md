@@ -1,4 +1,4 @@
-y<div align="left">
+<div align="left">
 @LANGUAGES
 </div>
 <!-- Visitors and Twitch -->
