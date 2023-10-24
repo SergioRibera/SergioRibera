@@ -39,7 +39,7 @@ y<div align="left">
 - **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), m [config](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
 - **Shell:** Fish, sip, fish-shell puro. Si quieres ver mi config, se encuentra [aqui](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
 - **Code Editor:** [Neovim](https://neovim.io/), el mejor en el mundo!, por si quieres ver, tengo mi config [aqui](https://github.com/SergioRibera/NvimDotFiles)
-- **@ABOUT_TECH_TITLE:** @ABOUT_FAVORITE_TECH
+- **Mis tecnologias favoritas:** rust, typescript, bun, rust, reactjs, docker, python, c#, rust y rust
 > **Note:** para mayor placer, yo uso Neovim con [neovide](https://github.com/neovide/neovide)
 
 Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://github.com/SergioRibera/dotfiles)
