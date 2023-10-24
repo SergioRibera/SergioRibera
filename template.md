@@ -1,4 +1,4 @@
-<div align="left">
+y<div align="left">
 @LANGUAGES
 </div>
 <!-- Visitors and Twitch -->
@@ -39,6 +39,7 @@
 - **Terminal:** @ABOUT_TERM
 - **Shell:** @ABOUT_SHELL
 - **Code Editor:** @ABOUT_CODE
+- **@ABOUT_TECH_TITLE:** @ABOUT_FAVORITE_TECH
 @ABOUT_NOTE
 
 @ABOUT_EXTRA
