@@ -1,4 +1,4 @@
-y<div align="left">
+<div align="left">
 <a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
 </div>
 <!-- Visitors and Twitch -->
