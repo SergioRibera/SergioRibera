@@ -6,6 +6,8 @@ SHELL_TEMPLATE_VARIABLE = "@ABOUT_SHELL"
 CODE_TEMPLATE_VARIABLE = "@ABOUT_CODE"
 NOTE_TEMPLATE_VARIABLE = "@ABOUT_NOTE"
 EXTRA_TEMPLATE_VARIABLE = "@ABOUT_EXTRA"
+TECH_TITLE_TEMPLATE_VARIABLE = "@ABOUT_TECH_TITLE"
+FAVORITE_TECH_TEMPLATE_VARIABLE = "@ABOUT_FAVORITE_TECH"
 
 
 def replace_about(data, lang: str, raw_temp: str) -> str:
@@ -21,5 +23,7 @@ def replace_about(data, lang: str, raw_temp: str) -> str:
     s = s.replace(CODE_TEMPLATE_VARIABLE, d['code_editor'])
     s = s.replace(NOTE_TEMPLATE_VARIABLE, d['note'])
     s = s.replace(EXTRA_TEMPLATE_VARIABLE, d['extra'])
+    s = s.replace(TECH_TITLE_TEMPLATE_VARIABLE, d['tech_title'])
+    s = s.replace(FAVORITE_TECH_TEMPLATE_VARIABLE, d['favorite_tech'])
     return s
 
