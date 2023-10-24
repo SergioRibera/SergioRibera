@@ -5,5 +5,7 @@
     "shell": "Fish, sip, fish-shell puro. Si quieres ver mi config, se encuentra [aqui](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)",
     "code_editor": "[Neovim](https://neovim.io/), el mejor en el mundo!, por si quieres ver, tengo mi config [aqui](https://github.com/SergioRibera/NvimDotFiles)",
     "note": "> **Note:** para mayor placer, yo uso Neovim con [neovide](https://github.com/neovide/neovide)",
-    "extra": "Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://github.com/SergioRibera/dotfiles)"
+    "extra": "Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://github.com/SergioRibera/dotfiles)",
+    "tech_title": "Mis tecnologias favoritas",
+    "favorite_tech": "rust, typescript, bun, rust, reactjs, docker, python, c#, rust y rust"
 }
