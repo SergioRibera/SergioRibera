@@ -1,4 +1,4 @@
-<div align="left">
+y<div align="left">
 <a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_EN.md">EN</a>&nbsp;|&nbsp;<a href="https://github.com/SergioRibera/SergioRibera/blob/main/README_ES.md">ES</a>
 </div>
 <!-- Visitors and Twitch -->
@@ -39,6 +39,7 @@
 - **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
 - **Shell:** Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
 - **Code Editor:** [Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)
+- **@ABOUT_TECH_TITLE:** @ABOUT_FAVORITE_TECH
 > **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
 
 Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
