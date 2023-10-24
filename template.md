@@ -2,7 +2,7 @@
 @LANGUAGES
 </div>
 <div align="right">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=@TITLE_VISITORS" />
+    <img src="https://komarev.com/ghpvc/?username=SergioRibera&style=for-the-badge&color=55acb7&label=@TITLE_VISITORS" />
     <img src="https://img.shields.io/twitch/status/sergioribera_rs?label=@TITLE_LIVE&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
