@@ -3,7 +3,7 @@
 </div>
 <div align="right">
     <img src="https://visitor-badge.glitch.me/badge?page_id=SergioRibera.SergioRibera&style=for-the-badge&color=55acb7&text=@TITLE_VISITORS" />
-    <img src="https://img.shields.io/twitch/status/sergioriberaid?label=@TITLE_LIVE&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
+    <img src="https://img.shields.io/twitch/status/sergioribera_rs?label=@TITLE_LIVE&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple" />
 </div>
 
 <a href="https://sergioribera.com" rel="nofollow">
@@ -27,8 +27,10 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats-6x8w4mlbc-sergioribera.vercel.app/api?username=SergioRibera&show_icons=true&theme=blueberry&hide_border=true&custom_title=Sergio%20Ribera%20Stats&hide_rank=true" alt="SergioRibera's Github Stats" /> &nbsp; &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioRibera&show_icons=true&theme=blueberry&layout=compact&langs_count=8&hide_border=true&hide=Assembly,HTML,ASP,Java,ShaderLab,SCSS,CSS,PHP,PowerBuilder,Blade" alt="SergioRibera's Github Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioRibera&theme=blueberry"/>
+    <br>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergioRibera&theme=blueberry&exclude=CSS,ShaderLab" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergioRibera&theme=blueberry&exclude=CSS,ShaderLab" />
 </div>
 </br>
 
