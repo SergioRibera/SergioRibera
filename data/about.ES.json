@@ -1,6 +1,6 @@
 {
-    "so": "ArchLinux",
-    "wm": "bspwm & gnome con picom & rofi para más placer",
+    "so": "NixOS",
+    "wm": "hyprland && rofi para más placer",
     "terminal": "[Wezterm](https://wezfurlong.org/wezterm/), m [config](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)",
     "shell": "Fish, sip, fish-shell puro. Si quieres ver mi config, se encuentra [aqui](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)",
     "code_editor": "[Neovim](https://neovim.io/), el mejor en el mundo!, por si quieres ver, tengo mi config [aqui](https://github.com/SergioRibera/NvimDotFiles)",
