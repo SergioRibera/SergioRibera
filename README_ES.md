@@ -34,8 +34,8 @@
 </br>
 
 **⚙️ Cosas que uso para hacer cosas**
-- **SO:** ArchLinux
-- **WM/DE:** bspwm & gnome con picom & rofi para más placer
+- **SO:** NixOS
+- **WM/DE:** hyprland && rofi para más placer
 - **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), m [config](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
 - **Shell:** Fish, sip, fish-shell puro. Si quieres ver mi config, se encuentra [aqui](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
 - **Code Editor:** [Neovim](https://neovim.io/), el mejor en el mundo!, por si quieres ver, tengo mi config [aqui](https://github.com/SergioRibera/NvimDotFiles)
