@@ -38,53 +38,5 @@
   {
     "name": "srtemplate",
     "description": "A string template system writen with {{ nom }}"
-  },
-  {
-    "name": "docker-rust-android",
-    "description": "A docker container that allows the construction of android applications written with rust with all the tools ready to use"
-  },
-  {
-    "name": "flappy_ferris",
-    "description": "Flappy Bird simulating made for terminal writen in Rust and using macroquad"
-  },
-  {
-    "name": "zoomer",
-    "description": "VERY WIP app to magnify screen area crossplatform Windows, Mac, Linux (X11, Wayland)"
-  },
-  {
-    "name": "egui-kle",
-    "description": "Keyboard Widget for egui based on KLE (Keyboard Layout Editor) web"
-  },
-  {
-    "name": "nvim-conf",
-    "description": "Save your frecuent configs on external file"
-  },
-  {
-    "name": "NewTab-ChromeExtension",
-    "description": "This is a simple extension for chromium-based browsers that is intended to be highly customizable, simple and minimal."
-  },
-  {
-    "name": "s4rchiso-plymouth-theme",
-    "description": "Simple and elegants plymouth themes"
-  },
-  {
-    "name": "cargo-pkgbuild-action",
-    "description": "Github Action for generate Aur PKGBUILD file from Cargo.toml"
-  },
-  {
-    "name": "SergioRibera",
-    "description": "Automate generation of profile readme with ES/EN lang support"
-  },
-  {
-    "name": "Runner2D",
-    "description": "Bevy 2D Game"
-  },
-  {
-    "name": "wgpu_node_graph",
-    "description": "WIP"
-  },
-  {
-    "name": "starred",
-    "description": "SergioRibera starred repos, updated weekly!"
   }
 ]
