@@ -52,7 +52,6 @@
                 <td><b>@TITLE_PROJECT_NAME</b></td>
                 <td><b>@TITLE_PROJECT_STARS</b></td>
                 <td><b>@TITLE_PROJECT_FORKS</b></td>
-                <td><b>@TITLE_PROJECT_ISSUES</b></td>
                 <td><b>@TITLE_PROJECT_PR</b></td>
                 <td><b>@TITLE_PROJECT_LANG</b></td>
             </tr>
