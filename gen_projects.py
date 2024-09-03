@@ -1,5 +1,6 @@
 import requests
 import json
+from itertools import islice
 
 def fetch_api_data(limit = 10):
     # Replace this URL with your actual API endpoint
