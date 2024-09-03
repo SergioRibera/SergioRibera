@@ -1,0 +1,32 @@
+name: Weekly API Cron Job
+
+on:
+  # Allows you to run manually from the Actions tab
+  workflow_dispatch:
+  # Runs every Monday at midnight UTC
+  schedule:
+    - cron: '0 0 * * 1'
+
+jobs:
+  api-fetcher:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install requests
+        
+      - name: Fetch API data
+        run: python gen_projects.py
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/projects.json
+          git commit -m "Update projects.json from weekly API call"
+          git push
