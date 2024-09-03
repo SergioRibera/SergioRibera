@@ -1,11 +1,11 @@
 {
-    "so": "NixOs",
-    "wm": "hyprland && rofi for more pleasure",
-    "terminal": "[Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)",
-    "shell": "Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)",
-    "code_editor": "[Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)",
-    "note": "> **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)",
-    "extra": "Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)",
+    "so": "NixOS",
+    "wm": "[Niri](https://github.com/YaLTeR/niri) for more pleasure",
+    "terminal": "[Wezterm](https://wezfurlong.org/wezterm/), my [config](https://github.com/SergioRibera/dotfiles/tree/main/home/desktop/terminal)",
+    "shell": "Nushell. If you want to see my config, it can be found [here](https://github.com/SergioRibera/dotfiles/tree/main/home/shells).",
+    "code_editor": "[Neovim](https://neovim.io/) but moving to [Zed](https://zed.dev), if you want to see, I have my config [here](https://github.com/SergioRibera/dotfiles/tree/main/home/editors)",
+    "note": "> **Note:** for more pleasure, I use Neovim with [neovide](https://github.com/neovide/neovide)",
+    "extra": "You can check my system and application configuration [here](https://github.com/SergioRibera/dotfiles)",
     "tech_title": "My favorite technologies",
-    "favorite_tech": "rust, typescript, bun, rust, reactjs, docker, python, c#, rust and rust"
+    "favorite_tech": "rust, nix, typescript, bun, rust, reactjs, docker, python, c#, rust, and rust."
 }
