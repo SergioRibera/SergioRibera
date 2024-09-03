@@ -34,18 +34,18 @@
 </br>
 
 **⚙️ Things I use to get stuff done**
-- **SO:** NixOs
-- **WM/DE:** hyprland && rofi for more pleasure
-- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [configuration](https://github.com/SergioRibera/dotfiles/tree/main/configs/wezterm)
-- **Shell:** Fish, yeah pure fish. If you want to see my configuration, see [here](https://github.com/SergioRibera/dotfiles/tree/main/configs/fish)
-- **Code Editor:** [Neovim](https://neovim.io/), the best in the world, I put my config [here](https://github.com/SergioRibera/NvimDotFiles)
-- **My favorite technologies:** rust, typescript, bun, rust, reactjs, docker, python, c#, rust and rust
-> **Note:** for more pleasure I use Neovim with [neovide](https://github.com/neovide/neovide)
+- **SO:** NixOS
+- **WM/DE:** [Niri](https://github.com/YaLTeR/niri) for more pleasure
+- **Terminal:** [Wezterm](https://wezfurlong.org/wezterm/), my [config](https://github.com/SergioRibera/dotfiles/tree/main/home/desktop/terminal)
+- **Shell:** Nushell. If you want to see my config, it can be found [here](https://github.com/SergioRibera/dotfiles/tree/main/home/shells).
+- **Code Editor:** [Neovim](https://neovim.io/) but moving to [Zed](https://zed.dev), if you want to see, I have my config [here](https://github.com/SergioRibera/dotfiles/tree/main/home/editors)
+- **My favorite technologies:** rust, nix, typescript, bun, rust, reactjs, docker, python, c#, rust, and rust.
+> **Note:** for more pleasure, I use Neovim with [neovide](https://github.com/neovide/neovide)
 
-Checkout my system configuration on [here](https://github.com/SergioRibera/dotfiles)
+You can check my system and application configuration [here](https://github.com/SergioRibera/dotfiles)
 
 <details>
-    <summary><h2>Awesome Projects 📚</h2></summary>
+    <summary><h2>Top 10 Awesome Projects 📚</h2></summary>
     <table>
         <thead align="center">
             <tr style="border: none;">
