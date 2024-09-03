@@ -14,6 +14,8 @@ def fetch_api_data():
         # Process the data and create the desired structure
         processed_data = []
         for item in data['items']:
+            if not item['description'] or len(item['description']) == 0:
+                continue
             processed_item = {
                 "name": item["name"],
                 "description": item["description"]
