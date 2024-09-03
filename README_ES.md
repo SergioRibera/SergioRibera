@@ -18,13 +18,13 @@
 </br>
 <!-- Social Media -->
 <p align="center">
-    <a href="https://sergioribera.com" target="_blank">
+    <a href="https://bento.me/sergioribera" target="_blank">
         <img alt="SergioRibera Web" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/sergioribera/" target="_blank">
         <img alt="SergioRibera LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/SergioRibera_ID/" target="_blank">
+    <a href="https://x.com/sergioribera_rs/" target="_blank">
         <img alt="SergioRibera Twitter" src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"/>
     </a>
     <a href="https://youtube.com/SergioRibera" target="_blank">
