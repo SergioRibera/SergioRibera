@@ -60,20 +60,12 @@
     "description": "Save your frecuent configs on external file"
   },
   {
-    "name": "ConfigsArchLinux",
-    "description": null
-  },
-  {
     "name": "NewTab-ChromeExtension",
     "description": "This is a simple extension for chromium-based browsers that is intended to be highly customizable, simple and minimal."
   },
   {
     "name": "s4rchiso-plymouth-theme",
     "description": "Simple and elegants plymouth themes"
-  },
-  {
-    "name": "wallpapers",
-    "description": null
   },
   {
     "name": "cargo-pkgbuild-action",
@@ -84,14 +76,6 @@
     "description": "Automate generation of profile readme with ES/EN lang support"
   },
   {
-    "name": "whiteboard",
-    "description": null
-  },
-  {
-    "name": "simple-mvc-php",
-    "description": null
-  },
-  {
     "name": "Runner2D",
     "description": "Bevy 2D Game"
   },
@@ -100,23 +84,7 @@
     "description": "WIP"
   },
   {
-    "name": "NewYear-Web",
-    "description": null
-  },
-  {
-    "name": "404Dot",
-    "description": null
-  },
-  {
-    "name": "install_hellper",
-    "description": null
-  },
-  {
     "name": "starred",
     "description": "SergioRibera starred repos, updated weekly!"
-  },
-  {
-    "name": "404",
-    "description": null
   }
 ]
