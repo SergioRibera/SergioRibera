@@ -52,7 +52,6 @@ You can check my system and application configuration [here](https://github.com/
                 <td><b>💻 Project Description</b></td>
                 <td><b>🌟 Stars</b></td>
                 <td><b>🍴 Forks</b></td>
-                <td><b>🐛 Issues</b></td>
                 <td><b>🔔 Pull Requests</b></td>
                 <td><b>👨‍💻 Top Language</b></td>
             </tr>
@@ -60,178 +59,156 @@ You can check my system and application configuration [here](https://github.com/
         <tbody>
         
 <tr>
-<td><a href="https://github.com/SergioRibera/sss" target="_blank" ><b>SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen</b></a></td>
+<td><a href="https://github.com/SergioRibera/sss" target="_blank" ><b>sss</b></a>: SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/sss?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/sss?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/sss?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/sss?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/sss?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/cmp-dotenv" target="_blank" ><b>cmp import and use all environment variables from .env.* and system</b></a></td>
+<td><a href="https://github.com/SergioRibera/cmp-dotenv" target="_blank" ><b>cmp-dotenv</b></a>: cmp import and use all environment variables from .env.* and system</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/cmp-dotenv?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/cmp-dotenv?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/cmp-dotenv?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/cmp-dotenv?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/cmp-dotenv?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/virtual_joystick" target="_blank" ><b>Bevy virtual Joystick for mobile games (Works with mouse on desktop)</b></a></td>
+<td><a href="https://github.com/SergioRibera/virtual_joystick" target="_blank" ><b>virtual_joystick</b></a>: Bevy virtual Joystick for mobile games (Works with mouse on desktop)</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/virtual_joystick?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/virtual_joystick?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/virtual_joystick?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/virtual_joystick?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/virtual_joystick?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/bevy_splash_screen" target="_blank" ><b>A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game</b></a></td>
+<td><a href="https://github.com/SergioRibera/bevy_splash_screen" target="_blank" ><b>bevy_splash_screen</b></a>: A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/bevy_splash_screen?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/bevy_splash_screen?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/bevy_splash_screen?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/bevy_splash_screen?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/bevy_splash_screen?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/codeshot.nvim" target="_blank" ><b>Take Amazing Screenshots of your code on Neovim</b></a></td>
+<td><a href="https://github.com/SergioRibera/codeshot.nvim" target="_blank" ><b>codeshot.nvim</b></a>: Take Amazing Screenshots of your code on Neovim</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/codeshot.nvim?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/codeshot.nvim?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/codeshot.nvim?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/codeshot.nvim?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/codeshot.nvim?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/super_clipboard" target="_blank" ><b>Manage your clipboard history with a beautiful and simple interface</b></a></td>
+<td><a href="https://github.com/SergioRibera/super_clipboard" target="_blank" ><b>super_clipboard</b></a>: Manage your clipboard history with a beautiful and simple interface</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/super_clipboard?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/super_clipboard?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/super_clipboard?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/super_clipboard?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/super_clipboard?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/Simplemoji" target="_blank" ><b>Fast Application for look your amazing emojis write in Rust</b></a></td>
+<td><a href="https://github.com/SergioRibera/Simplemoji" target="_blank" ><b>Simplemoji</b></a>: Fast Application for look your amazing emojis write in Rust</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/Simplemoji?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/Simplemoji?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/Simplemoji?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/vim-files" target="_blank" ><b>This is a simple plugin to create directories and files from vim, and even using templates</b></a></td>
+<td><a href="https://github.com/SergioRibera/vim-files" target="_blank" ><b>vim-files</b></a>: This is a simple plugin to create directories and files from vim, and even using templates</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/vim-files?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/vim-files?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/vim-files?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/vim-files?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/vim-files?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/dotfiles" target="_blank" ><b>My NixOs dotfiles</b></a></td>
+<td><a href="https://github.com/SergioRibera/dotfiles" target="_blank" ><b>dotfiles</b></a>: My NixOs dotfiles</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/dotfiles?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/dotfiles?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/dotfiles?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/dotfiles?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/dotfiles?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/srtemplate" target="_blank" ><b>A string template system writen with {{ nom }}</b></a></td>
+<td><a href="https://github.com/SergioRibera/srtemplate" target="_blank" ><b>srtemplate</b></a>: A string template system writen with {{ nom }}</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/srtemplate?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/srtemplate?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/srtemplate?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/srtemplate?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/srtemplate?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/docker-rust-android" target="_blank" ><b>A docker container that allows the construction of android applications written with rust with all the tools ready to use</b></a></td>
+<td><a href="https://github.com/SergioRibera/docker-rust-android" target="_blank" ><b>docker-rust-android</b></a>: A docker container that allows the construction of android applications written with rust with all the tools ready to use</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/docker-rust-android?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/docker-rust-android?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/docker-rust-android?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/docker-rust-android?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/docker-rust-android?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/flappy_ferris" target="_blank" ><b>Flappy Bird simulating made for terminal writen in Rust and using macroquad</b></a></td>
+<td><a href="https://github.com/SergioRibera/flappy_ferris" target="_blank" ><b>flappy_ferris</b></a>: Flappy Bird simulating made for terminal writen in Rust and using macroquad</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/flappy_ferris?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/flappy_ferris?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/flappy_ferris?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/flappy_ferris?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/flappy_ferris?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/zoomer" target="_blank" ><b>VERY WIP app to magnify screen area crossplatform Windows, Mac, Linux (X11, Wayland)</b></a></td>
+<td><a href="https://github.com/SergioRibera/zoomer" target="_blank" ><b>zoomer</b></a>: VERY WIP app to magnify screen area crossplatform Windows, Mac, Linux (X11, Wayland)</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/zoomer?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/zoomer?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/zoomer?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/zoomer?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/zoomer?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/egui-kle" target="_blank" ><b>Keyboard Widget for egui based on KLE (Keyboard Layout Editor) web</b></a></td>
+<td><a href="https://github.com/SergioRibera/egui-kle" target="_blank" ><b>egui-kle</b></a>: Keyboard Widget for egui based on KLE (Keyboard Layout Editor) web</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/egui-kle?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/egui-kle?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/egui-kle?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/egui-kle?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/egui-kle?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/nvim-conf" target="_blank" ><b>Save your frecuent configs on external file</b></a></td>
+<td><a href="https://github.com/SergioRibera/nvim-conf" target="_blank" ><b>nvim-conf</b></a>: Save your frecuent configs on external file</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/nvim-conf?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/nvim-conf?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/nvim-conf?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/nvim-conf?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/nvim-conf?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/NewTab-ChromeExtension" target="_blank" ><b>This is a simple extension for chromium-based browsers that is intended to be highly customizable, simple and minimal.</b></a></td>
+<td><a href="https://github.com/SergioRibera/NewTab-ChromeExtension" target="_blank" ><b>NewTab-ChromeExtension</b></a>: This is a simple extension for chromium-based browsers that is intended to be highly customizable, simple and minimal.</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/NewTab-ChromeExtension?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/NewTab-ChromeExtension?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/NewTab-ChromeExtension?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/NewTab-ChromeExtension?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/NewTab-ChromeExtension?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/s4rchiso-plymouth-theme" target="_blank" ><b>Simple and elegants plymouth themes</b></a></td>
+<td><a href="https://github.com/SergioRibera/s4rchiso-plymouth-theme" target="_blank" ><b>s4rchiso-plymouth-theme</b></a>: Simple and elegants plymouth themes</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/s4rchiso-plymouth-theme?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/s4rchiso-plymouth-theme?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/s4rchiso-plymouth-theme?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/s4rchiso-plymouth-theme?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/s4rchiso-plymouth-theme?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/cargo-pkgbuild-action" target="_blank" ><b>Github Action for generate Aur PKGBUILD file from Cargo.toml</b></a></td>
+<td><a href="https://github.com/SergioRibera/cargo-pkgbuild-action" target="_blank" ><b>cargo-pkgbuild-action</b></a>: Github Action for generate Aur PKGBUILD file from Cargo.toml</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/cargo-pkgbuild-action?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/cargo-pkgbuild-action?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/cargo-pkgbuild-action?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/cargo-pkgbuild-action?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/cargo-pkgbuild-action?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/SergioRibera" target="_blank" ><b>Automate generation of profile readme with ES/EN lang support</b></a></td>
+<td><a href="https://github.com/SergioRibera/SergioRibera" target="_blank" ><b>SergioRibera</b></a>: Automate generation of profile readme with ES/EN lang support</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/SergioRibera?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/SergioRibera?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/SergioRibera?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/SergioRibera?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/SergioRibera?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/Runner2D" target="_blank" ><b>Bevy 2D Game</b></a></td>
+<td><a href="https://github.com/SergioRibera/Runner2D" target="_blank" ><b>Runner2D</b></a>: Bevy 2D Game</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/Runner2D?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/Runner2D?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/Runner2D?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/Runner2D?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/Runner2D?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/wgpu_node_graph" target="_blank" ><b>WIP</b></a></td>
+<td><a href="https://github.com/SergioRibera/wgpu_node_graph" target="_blank" ><b>wgpu_node_graph</b></a>: WIP</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/wgpu_node_graph?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/wgpu_node_graph?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/wgpu_node_graph?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/wgpu_node_graph?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/wgpu_node_graph?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/starred" target="_blank" ><b>SergioRibera starred repos, updated weekly!</b></a></td>
+<td><a href="https://github.com/SergioRibera/starred" target="_blank" ><b>starred</b></a>: SergioRibera starred repos, updated weekly!</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/starred?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/starred?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Issues" src="https://img.shields.io/github/issues/SergioRibera/starred?style=flat-square"/></td>
 <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/starred?style=flat-square"/></td>
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/starred?style=flat-square"/></td>
 </tr>
