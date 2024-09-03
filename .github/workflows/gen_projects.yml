@@ -6,6 +6,11 @@ on:
   # Runs every Monday at midnight UTC
   schedule:
     - cron: '0 0 * * 1'
+  push:
+    branches:
+      - main
+    paths: 
+      - gen_projects.py
 
 jobs:
   api-fetcher:
