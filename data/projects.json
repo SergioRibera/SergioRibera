@@ -1,66 +1,122 @@
 [
-    {
-        "name": "Sbbw",
-        "repo": "sbbw"
-    },
-    {
-        "name": "Vim Screenshot",
-        "repo": "vim-screenshot"
-    },
-    {
-        "name": "Vim Files",
-        "repo": "vim-files"
-    },
-    {
-        "name": "Neovim Config Plugin",
-        "repo": "nvim-conf"
-    },
-    {
-        "name": "Plymouth Theme",
-        "repo": "s4rchiso-plymouth-theme"
-    },
-    {
-        "name": "Lightdm Theme",
-        "repo": "lightdm-s4rchiso"
-    },
-    {
-        "name": "Crkbd Desktop",
-        "repo": "CrkbdGUI"
-    },
-    {
-        "name": "Archlinux Sarosi Config",
-        "repo": "ConfigsArchLinux"
-    },
-    {
-        "name": "My ST Fork Boosted",
-        "repo": "st-sr"
-    },
-    {
-        "name": "PvZ Clone",
-        "repo": "PvZClone"
-    },
-    {
-        "name": "c++ Console Game",
-        "repo": "CSpaceWar"
-    },
-    {
-        "name": "Happy New Year",
-        "repo": "NewYear-Web"
-    },
-    {
-        "name": "Christmas Tree",
-        "repo": "ArbolitoNavidad"
-    },
-    {
-        "name": "Simple MVC System",
-        "repo": "simple-mvc-php"
-    },
-    {
-        "name": "404 Dot Style",
-        "repo": "404Dot"
-    },
-    {
-        "name": "404 Linux Style",
-        "repo": "404Linux"
-    }
+  {
+    "name": "sss",
+    "description": "SSS (Super ScreenShot) is a WIP: CLI/Lib to take amazing screenshot of code or screen"
+  },
+  {
+    "name": "cmp-dotenv",
+    "description": "cmp import and use all environment variables from .env.* and system"
+  },
+  {
+    "name": "virtual_joystick",
+    "description": "Bevy virtual Joystick for mobile games (Works with mouse on desktop)"
+  },
+  {
+    "name": "bevy_splash_screen",
+    "description": "A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game"
+  },
+  {
+    "name": "codeshot.nvim",
+    "description": "Take Amazing Screenshots of your code on Neovim"
+  },
+  {
+    "name": "super_clipboard",
+    "description": "Manage your clipboard history with a beautiful and simple interface"
+  },
+  {
+    "name": "Simplemoji",
+    "description": "Fast Application for look your amazing emojis write in Rust"
+  },
+  {
+    "name": "vim-files",
+    "description": "This is a simple plugin to create directories and files from vim, and even using templates"
+  },
+  {
+    "name": "dotfiles",
+    "description": "My NixOs dotfiles"
+  },
+  {
+    "name": "srtemplate",
+    "description": "A string template system writen with {{ nom }}"
+  },
+  {
+    "name": "docker-rust-android",
+    "description": "A docker container that allows the construction of android applications written with rust with all the tools ready to use"
+  },
+  {
+    "name": "flappy_ferris",
+    "description": "Flappy Bird simulating made for terminal writen in Rust and using macroquad"
+  },
+  {
+    "name": "zoomer",
+    "description": "VERY WIP app to magnify screen area crossplatform Windows, Mac, Linux (X11, Wayland)"
+  },
+  {
+    "name": "egui-kle",
+    "description": "Keyboard Widget for egui based on KLE (Keyboard Layout Editor) web"
+  },
+  {
+    "name": "nvim-conf",
+    "description": "Save your frecuent configs on external file"
+  },
+  {
+    "name": "ConfigsArchLinux",
+    "description": null
+  },
+  {
+    "name": "NewTab-ChromeExtension",
+    "description": "This is a simple extension for chromium-based browsers that is intended to be highly customizable, simple and minimal."
+  },
+  {
+    "name": "s4rchiso-plymouth-theme",
+    "description": "Simple and elegants plymouth themes"
+  },
+  {
+    "name": "wallpapers",
+    "description": null
+  },
+  {
+    "name": "cargo-pkgbuild-action",
+    "description": "Github Action for generate Aur PKGBUILD file from Cargo.toml"
+  },
+  {
+    "name": "SergioRibera",
+    "description": "Automate generation of profile readme with ES/EN lang support"
+  },
+  {
+    "name": "whiteboard",
+    "description": null
+  },
+  {
+    "name": "simple-mvc-php",
+    "description": null
+  },
+  {
+    "name": "Runner2D",
+    "description": "Bevy 2D Game"
+  },
+  {
+    "name": "wgpu_node_graph",
+    "description": "WIP"
+  },
+  {
+    "name": "NewYear-Web",
+    "description": null
+  },
+  {
+    "name": "404Dot",
+    "description": null
+  },
+  {
+    "name": "install_hellper",
+    "description": null
+  },
+  {
+    "name": "starred",
+    "description": "SergioRibera starred repos, updated weekly!"
+  },
+  {
+    "name": "404",
+    "description": null
+  }
 ]
