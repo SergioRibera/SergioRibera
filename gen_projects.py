@@ -1,7 +1,7 @@
 import requests
 import json
 
-def fetch_api_data():
+def fetch_api_data(limit = 10):
     # Replace this URL with your actual API endpoint
     api_url = "https://api.github.com/search/repositories?q=owner%3ASergioRibera+sort%3Astars+archived%3Afalse&type=repositories&s=stars&o=desc"
     
@@ -12,18 +12,13 @@ def fetch_api_data():
         data = response.json()
         
         # Process the data and create the desired structure
-        processed_data = []
-        for i in range(10):
-            item = data['items'][i]
-            if not item['description'] or len(item['description']) == 0:
-                continue
-            processed_item = {
+
+        return list(islice(({
                 "name": item["name"],
                 "description": item["description"]
-            }
-            processed_data.append(processed_item)
-        
-        return processed_data
+            } for item in data['items']
+            if item['description'] and item['description'] != ''), 
+        limit))
     
     except requests.exceptions.RequestException as e:
         print(f"An error occurred: {e}")
