@@ -20,12 +20,12 @@
     "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
-    "name": "super_clipboard",
-    "description": "Manage your clipboard history with a beautiful and simple interface"
-  },
-  {
     "name": "Simplemoji",
     "description": "Fast Application for look your amazing emojis write in Rust"
+  },
+  {
+    "name": "super_clipboard",
+    "description": "Manage your clipboard history with a beautiful and simple interface"
   },
   {
     "name": "vim-files",
