@@ -12,16 +12,16 @@
     "description": "Bevy virtual Joystick for mobile games (Works with mouse on desktop)"
   },
   {
+    "name": "Simplemoji",
+    "description": "Fast Application for look your amazing emojis write in Rust"
+  },
+  {
     "name": "bevy_splash_screen",
     "description": "A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game"
   },
   {
     "name": "codeshot.nvim",
     "description": "Take Amazing Screenshots of your code on Neovim"
-  },
-  {
-    "name": "Simplemoji",
-    "description": "Fast Application for look your amazing emojis write in Rust"
   },
   {
     "name": "super_clipboard",
