@@ -28,15 +28,15 @@
     "description": "Manage your clipboard history with a beautiful and simple interface"
   },
   {
+    "name": "dotfiles",
+    "description": "My NixOs dotfiles"
+  },
+  {
     "name": "docker-rust-android",
     "description": "A docker container that allows the construction of android applications written with rust with all the tools ready to use"
   },
   {
     "name": "vim-files",
     "description": "This is a simple plugin to create directories and files from vim, and even using templates"
-  },
-  {
-    "name": "dotfiles",
-    "description": "My NixOs dotfiles"
   }
 ]
