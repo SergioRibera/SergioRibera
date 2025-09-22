@@ -28,12 +28,12 @@
     "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
-    "name": "egui_css",
-    "description": "Use css to styling egui"
-  },
-  {
     "name": "soft_osd",
     "description": "Amazing and Soft animated standalone notification daemon or SOSD"
+  },
+  {
+    "name": "egui_css",
+    "description": "Use css to styling egui"
   },
   {
     "name": "docker-rust-android",
