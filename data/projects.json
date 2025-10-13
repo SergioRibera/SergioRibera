@@ -20,20 +20,20 @@
     "description": "A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game"
   },
   {
-    "name": "super_clipboard",
-    "description": "Manage your clipboard history with a beautiful and simple interface"
-  },
-  {
     "name": "codeshot.nvim",
     "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
-    "name": "soft_osd",
-    "description": "Amazing and Soft animated standalone notification daemon or SOSD"
+    "name": "super_clipboard",
+    "description": "Manage your clipboard history with a beautiful and simple interface"
   },
   {
     "name": "egui_css",
     "description": "Use css to styling egui"
+  },
+  {
+    "name": "soft_osd",
+    "description": "Amazing and Soft animated standalone notification daemon or SOSD"
   },
   {
     "name": "docker-rust-android",
