@@ -33,5 +33,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/projects.json
-          git commit -m "Update projects.json from weekly API call"
-          git push
+          git commit -m "Update projects.json from weekly API call" || true
+          git push || true
