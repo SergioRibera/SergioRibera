@@ -73,6 +73,13 @@ Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://gith
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/cmp-dotenv?style=flat-square"/></td>
 </tr>
 <tr>
+<td><a href="https://github.com/SergioRibera/Simplemoji" target="_blank" ><b>Simplemoji</b></a>: Fast Application for look your amazing emojis write in Rust</td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/Simplemoji?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/Simplemoji?style=flat-square"/></td>
+</tr>
+<tr>
 <td><a href="https://github.com/SergioRibera/virtual_joystick" target="_blank" ><b>virtual_joystick</b></a>: Bevy virtual Joystick for mobile games (Works with mouse on desktop)</td>
 <td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/virtual_joystick?style=flat-square&labelColor=343b41"/></td>
 <td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/virtual_joystick?style=flat-square&labelColor=343b41"/></td>
@@ -101,32 +108,25 @@ Puedes revisar la configuracion de mi sistema y aplicaciones [aqui](https://gith
 <td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/super_clipboard?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/Simplemoji" target="_blank" ><b>Simplemoji</b></a>: Fast Application for look your amazing emojis write in Rust</td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/Simplemoji?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/Simplemoji?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/Simplemoji?style=flat-square"/></td>
+<td><a href="https://github.com/SergioRibera/egui_css" target="_blank" ><b>egui_css</b></a>: Use css to styling egui</td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/egui_css?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/egui_css?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/egui_css?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/egui_css?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/vim-files" target="_blank" ><b>vim-files</b></a>: This is a simple plugin to create directories and files from vim, and even using templates</td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/vim-files?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/vim-files?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/vim-files?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/vim-files?style=flat-square"/></td>
+<td><a href="https://github.com/SergioRibera/soft_osd" target="_blank" ><b>soft_osd</b></a>: Amazing and Soft animated standalone notification daemon or SOSD</td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/soft_osd?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/soft_osd?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/soft_osd?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/soft_osd?style=flat-square"/></td>
 </tr>
 <tr>
-<td><a href="https://github.com/SergioRibera/dotfiles" target="_blank" ><b>dotfiles</b></a>: My NixOs dotfiles</td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/dotfiles?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/dotfiles?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/dotfiles?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/dotfiles?style=flat-square"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/SergioRibera/srtemplate" target="_blank" ><b>srtemplate</b></a>: A string template system writen with {{ nom }}</td>
-<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/srtemplate?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/srtemplate?style=flat-square&labelColor=343b41"/></td>
-<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/srtemplate?style=flat-square"/></td>
-<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/srtemplate?style=flat-square"/></td>
+<td><a href="https://github.com/SergioRibera/docker-rust-android" target="_blank" ><b>docker-rust-android</b></a>: A docker container that allows the construction of android applications written with rust with all the tools ready to use</td>
+<td><img alt="Stars" src="https://img.shields.io/github/stars/SergioRibera/docker-rust-android?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Forks" src="https://img.shields.io/github/forks/SergioRibera/docker-rust-android?style=flat-square&labelColor=343b41"/></td>
+<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SergioRibera/docker-rust-android?style=flat-square"/></td>
+<td><img alt="Language" src="https://img.shields.io/github/languages/top/SergioRibera/docker-rust-android?style=flat-square"/></td>
 </tr>
         </tbody>
     </table>
