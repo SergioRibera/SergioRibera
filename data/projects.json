@@ -36,7 +36,7 @@
     "description": "Amazing and Soft animated standalone notification daemon or SOSD"
   },
   {
-    "name": "docker-rust-android",
-    "description": "A docker container that allows the construction of android applications written with rust with all the tools ready to use"
+    "name": "dotfiles",
+    "description": "My NixOs dotfiles"
   }
 ]
