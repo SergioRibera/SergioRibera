@@ -20,12 +20,12 @@
     "description": "A plugin for bevy which allows you to create screens to show the brands and development teams behind your amazing game"
   },
   {
-    "name": "codeshot.nvim",
-    "description": "Take Amazing Screenshots of your code on Neovim"
-  },
-  {
     "name": "super_clipboard",
     "description": "Manage your clipboard history with a beautiful and simple interface"
+  },
+  {
+    "name": "codeshot.nvim",
+    "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
     "name": "egui_css",
