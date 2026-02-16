@@ -36,7 +36,7 @@
     "description": "Amazing and Soft animated standalone notification daemon or SOSD"
   },
   {
-    "name": "dotfiles",
-    "description": "My NixOs dotfiles"
+    "name": "s4rchiso-plymouth-theme",
+    "description": "Simple and elegants plymouth themes"
   }
 ]
