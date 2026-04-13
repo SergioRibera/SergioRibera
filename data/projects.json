@@ -32,11 +32,11 @@
     "description": "Use css to styling egui"
   },
   {
-    "name": "soft_osd",
-    "description": "Amazing and Soft animated standalone notification daemon or SOSD"
-  },
-  {
     "name": "s4rchiso-plymouth-theme",
     "description": "Simple and elegants plymouth themes"
+  },
+  {
+    "name": "soft_osd",
+    "description": "Amazing and Soft animated standalone notification daemon or SOSD"
   }
 ]
