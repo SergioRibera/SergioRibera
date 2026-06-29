@@ -1,7 +1,7 @@
 [
   {
     "name": "sss",
-    "description": "SSS (Super ScreenShot): CLI/Lib to take amazing screenshot of code or screen with selector built-in"
+    "description": "SSS (Super ScreenShot): CLI/Lib to take amazing screenshot of code or screen with selector ui and OCR built-in"
   },
   {
     "name": "cmp-dotenv",
