@@ -28,12 +28,12 @@
     "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
-    "name": "egui_css",
-    "description": "Use css to styling egui"
-  },
-  {
     "name": "s4rchiso-plymouth-theme",
     "description": "Simple and elegants plymouth themes"
+  },
+  {
+    "name": "egui_css",
+    "description": "Use css to styling egui"
   },
   {
     "name": "soft_osd",
