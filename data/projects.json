@@ -36,7 +36,7 @@
     "description": "Use css to styling egui"
   },
   {
-    "name": "soft_osd",
-    "description": "Amazing and Soft animated standalone notification daemon or SOSD"
+    "name": "nix-bundle-app",
+    "description": "Turn any Nix derivation into native installers for Linux/MacOS/Windows, no Nix required on the target machine"
   }
 ]
