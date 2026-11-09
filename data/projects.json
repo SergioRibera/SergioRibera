@@ -24,12 +24,12 @@
     "description": "Manage your clipboard history with a beautiful and simple interface"
   },
   {
-    "name": "codeshot.nvim",
-    "description": "Take Amazing Screenshots of your code on Neovim"
-  },
-  {
     "name": "s4rchiso-plymouth-theme",
     "description": "Simple and elegants plymouth themes"
+  },
+  {
+    "name": "codeshot.nvim",
+    "description": "Take Amazing Screenshots of your code on Neovim"
   },
   {
     "name": "egui_css",
